@@ -9,7 +9,7 @@ Focused server-side examples for building with `nano-banana-2-lite` and `nano-ba
 
 Nano Banana 2 Lite is useful for fast lower-cost image drafts, thumbnails, product concepts, and high-throughput visual tests.
 
-[Model Page](https://poyo.ai/models/nano-banana-2-lite) | [Docs](https://docs.poyo.ai/api-manual/image-series/nano-banana-2-lite) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
+[Try on PoYo](https://poyo.ai/models/nano-banana-2-lite) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Docs](https://docs.poyo.ai/api-manual/image-series/nano-banana-2-lite) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
 
 ## What This Repo Covers
 
